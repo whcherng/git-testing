@@ -5,6 +5,7 @@ using namespace std;
 
 void main() {
 	int integer;
-	cout << "halo" << endl;
+	integer = 7;
+	cout << "halo Agent: 00"<<integer << endl;
 	
 }
